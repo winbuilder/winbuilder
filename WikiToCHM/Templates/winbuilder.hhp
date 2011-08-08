@@ -1,0 +1,15 @@
+[OPTIONS]
+Auto Index=Yes
+Compatibility=1.1 or later
+Compiled file=..\WinBuilder.chm
+Contents file=winbuilder_TOC.hhc
+Default topic=wbwelcome.html
+Display compile progress=No
+Full-text search=Yes
+Index file=Index.hhk
+Language=0x409 English (United States)
+Title=WinBuilder
+
+
+[INFOTYPES]
+
