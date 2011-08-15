@@ -13,7 +13,9 @@ cd ..
 Rem - works for English times ONLY, where date is ddd_DDMMYYY
 
 set _d=%date:/=%
-7z a WinBuilderCHM_%_d:~8,4%_%_d:~6,2%_%_d:~4,2%.7z winbuilder.chm
+7z a WinBuilderCHM_%_d:~8,4%_%_d:~4,2%_%_d:~6,2%.zip winbuilder.chm
 set _d=
 
 PAUSE
+
+RMDIR /S/Q  Win-Help
