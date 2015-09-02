@@ -1,4 +1,4 @@
-# winbuilder
+# [WinBuilder](../wiki/wbindex.md)
 Automatically exported from code.google.com/p/winbuilder
 
 This repository contains the documentation for the WinBuilder Classic program (still very much in use) as release in version 82.  Originaly coded in fairly flat HTML files, it was broken up and converted to MD format on google code.  When that shut down, it was migrated here to github.
